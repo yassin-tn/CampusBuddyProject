@@ -21,3 +21,19 @@ install_git_and_push.bat
 fix_and_push.bat 
 clean_push.bat 
 .git-credentials 
+
+# AI-generated push scripts and documentation
+auto_push.bat
+push_to_github.bat
+install_git_and_push.bat
+fix_and_push.bat
+clean_push.bat
+remove_ai_files.bat
+PUSH_GUIDE.md
+START_HERE.txt
+FIX_TOKEN_ISSUE.txt
+*_FIX*.md
+*_GUIDE*.md
+*_SUMMARY*.md
+QUICK_*.md
+.git-credentials
